@@ -1,0 +1,11 @@
+{
+  "name": "my-instagram",
+  "version": "1.0.0",
+  "description": "Basic HTML and CSS starter",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "author": "",
+  "license": "ISC"
+}
